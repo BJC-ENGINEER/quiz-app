@@ -8,4 +8,9 @@ Learners can test their knowledge, answer multiple-choice questions, and get the
 - Displays one question at a time
 - Tracks user score
 - Shows final score at the end
-- Option to play again.  Thanks
+- Option to play again.
+
+Tech Stack
+-React + Vite
+-React Router DOM (for navigation)
+-Tailwing CSS (for styling)
